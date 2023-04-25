@@ -4,7 +4,7 @@ Order Of Complexity Calculator uses a new code tracer algorithm implemented in J
 
 The algorithm takes a Python file as input and calculates the total complexity of the file, providing valuable insights into the efficiency and performance of the code. By analyzing the complexity of the code, developers can identify areas that require optimization and improve the overall quality of their software. 
 
-Implementation of the stacks data structure in Java ensures a robust and efficient algorithm that can handle large code files with ease. We believe that our code tracer algorithm is a valuable tool for developers and can greatly enhance the quality and performance of their code..
+Implementation of the stacks data structure in Java ensures a robust and efficient algorithm that can handle large code files with ease. We believe that our code tracer algorithm is a valuable tool for developers and can greatly enhance the quality and performance of their code.
 
 ## Installation
 
